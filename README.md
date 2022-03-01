@@ -1,2 +1,2 @@
 # Practice-Notebooks
-Set of Practice Notebooks for Machine Learning
+Practice Notebooks for Machine Learning and Data Science Projects
